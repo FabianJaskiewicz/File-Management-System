@@ -1,2 +1,4 @@
 # File-Management-System
-Moves and sorts your files from your downloads folder
+
+This program sorts text documents, video, music, and image files from your downloads folder and moves them to their corresponding folder.
+music files -> music folder, video files -> videos folder, etc.
